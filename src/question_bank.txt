@@ -1,0 +1,32 @@
+Q:P0001古诗填空：京口瓜洲一水间#
+A:P0001钟山只隔数重山#
+Q:P0002填空：被称为“史家之绝唱，无韵之离骚”的是#
+A:P0002史记#
+Q:P0003简便计算：765×213÷27+765×327÷27#
+A:P000315300#
+Q:M0001选择题：清洁的空气中含有多少氧？（）#
+A. 21% B. 31% C. 41%#
+A:M0001A#
+Q:M0002选择题：紫外线能够杀菌的主要原因是：（）
+A. 破坏细菌的核酸 B. 破坏细菌的糖类 C. 破坏细菌的脂类#
+A:M0002A#
+Q:M0003太阳日核的氢核聚变属于物理变化还是化学变化？#
+A:M0003化学变化#
+Q:H0001下列光合作用的产物中，不在叶绿体内合成是
+A．淀粉 B．蔗糖 C．蛋白质 D．脂质#
+A:H0001B#
+Q:H0002对于一定量的稀薄气体,下列说法正确的是( )
+A.压强变大时,分子热运动必然变得剧烈 B.保持压强不变时,分子热运动可能变得剧烈 C.压强变大时，分子间的平均距离必然变小 D.压强变小时,分子间的平均距离可能变小#
+A:H0002BD#
+Q:H0003提高产品质量的有效途径是
+A．增大产品包含的价值 B．提高产品的社会劳动生产率 C．增加产品的科技含量 D．减少产品的社会必要劳动时间#
+A:H0003C#
+Q:U0001翻译：剪纸是中国民间艺术的一种独特形式，已有2000多年历史。#
+A:U0001Paper cutting is a unique form of Chinese folk art and has a history of more than 2,000 years.#
+Q:U0002翻译：在狮子舞中，两位表演者同披一件狮子服，一个舞动头部，另一个舞动身体和尾巴。#
+A:U0002In the lion dance, two performers share a lion costume, one moving the head and the other moving the body and tail. #
+Q:U0003翻译：如果不知道某个成语的出处，就很难理解其确切含义。#
+A:U0003It is difficult to understand the exact meaning of an idiom without knowledge of its origin.#
+A:U0002#
+A:U0001#
+A:U0000#
